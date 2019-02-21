@@ -1,4 +1,9 @@
+# Warning
+
+Updates to this repository for ``iexfinance`` version 0.4.0 are *in progress*
+
 # iex-examples
+
 A set of useful Jupyter Notebooks explaining the usage of [iexfinance](https://github.com/addisonlynch/iexfinance) in detail. Usage of these example requires an installation of [Jupyter Notebook](https://jupyter.org), which can be installed via pip.
 
 ```bash
