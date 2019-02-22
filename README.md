@@ -1,4 +1,4 @@
-# Warning
+# Note
 
 Updates to this repository for ``iexfinance`` version 0.4.0 are *in progress*
 
@@ -17,7 +17,6 @@ $ pip3 install jupyter
 #### [Historical Data](https://github.com/addisonlynch/iex-examples/blob/master/examples/Historical%20Data.ipynb) - daily closing prices
 #### [Stock](https://github.com/addisonlynch/iex-examples/blob/master/examples/stocks.ipynb) - the ``Stock`` object, quotes, endpoints, and output formatting
 #### [Plotting](https://github.com/addisonlynch/iex-examples/blob/master/examples/Plotting.ipynb) - simple daily charts, moving averages for single and multiple symbol requests
-#### [IEX Market Data](https://github.com/addisonlynch/iex-examples/blob/master/examples/iex-market-data.ipynb) - TOPS, LAST, Book, and DEEP
 
 ### Contact
 
@@ -26,6 +25,6 @@ Twitter: [@alynchfc](https://twitter.com/alynchfc)
 
 ### License
 
-Copyright 2018 Addison Lynch
+Copyright 2019 Addison Lynch
 
 See LICENSE for details
