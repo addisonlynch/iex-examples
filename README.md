@@ -1,6 +1,6 @@
 # Note
 
-Updates to this repository for ``iexfinance`` version 0.4.0 are *in progress*
+Updates to this repository for ``iexfinance`` version 0.4.3 are *in progress*
 
 # iex-examples
 
